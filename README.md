@@ -1,6 +1,6 @@
 ## Go to Website
 
-### www.spotgrow.netlify.app
+### spotgrow.netlify.app
 
 ## Go to Instagram Bot Documentation
 
